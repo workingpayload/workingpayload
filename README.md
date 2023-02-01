@@ -30,6 +30,10 @@ Thank you for visiting my GitHub profile. I look forward to collaborating with y
 | - | - |
 | [![Python](https://img.shields.io/static/v1?label=&message=Python&color=3776AB&logo=Python&logoColor=FFFFFF)](https://www.python.org/) | [![Hand-Gesture-Recognition](https://img.shields.io/static/v1?label=&message=Hand-Gesture-Recognition&color=000605&logo=github&logoColor=FFFFFF&labelColor=000605)](https://github.com/workingpayload/Hand-Gesture-Recognition) [![Covid-19-Tracker](https://img.shields.io/static/v1?label=&message=Covid-19-Tracker&color=000605&logo=github&logoColor=FFFFFF&labelColor=000605)](https://github.com/workingpayload/Covid-19-Tracker) [![Stopwatch](https://img.shields.io/static/v1?label=&message=Stopwatch&color=000605&logo=github&logoColor=FFFFFF&labelColor=000605)](https://github.com/workingpayload/Stopwatch) |
 
+![Raj's Github Stats](https://github-readme-stats.vercel.app/api?username=workingpayload&show_icons=true)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=workingpayload&layout=compact)](https://github.com/workingpayload)
+![Raj GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=workingpayload)
+
 
 <!-- END OF PROFILE STACK, DO NOT REMOVE -->
 
@@ -37,11 +41,6 @@ Thank you for visiting my GitHub profile. I look forward to collaborating with y
 <!-- BLOG-POST-LIST:START -->
 - [How to Switch from Windows to Linux without Losing Data?](https://www.geeksforgeeks.org/how-to-switch-from-windows-to-linux-without-losing-data/)
 <!-- BLOG-POST-LIST:END -->
-
-![Raj's Github Stats](https://github-readme-stats.vercel.app/api?username=workingpayload&show_icons=true)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=workingpayload&layout=compact)](https://github.com/workingpayload)
-![Raj GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=workingpayload)
-
 
 Here are some [🦜 party parrots](https://cultofthepartyparrot.com):
 
