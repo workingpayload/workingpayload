@@ -38,6 +38,11 @@ Thank you for visiting my GitHub profile. I look forward to collaborating with y
 - [How to Switch from Windows to Linux without Losing Data?](https://www.geeksforgeeks.org/how-to-switch-from-windows-to-linux-without-losing-data/)
 <!-- BLOG-POST-LIST:END -->
 
+![Raj's Github Stats](https://github-readme-stats.vercel.app/api?username=workingpayload&show_icons=true)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=workingpayload&layout=compact)](https://github.com/workingpayload)
+![Raj GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=workingpayload)
+
+
 Here are some [🦜 party parrots](https://cultofthepartyparrot.com):
 
 <div>
