@@ -40,6 +40,7 @@ Thank you for visiting my GitHub profile. I look forward to collaborating with y
 📝 &nbsp;**Latest Blog Posts**
 <!-- BLOG-POST-LIST:START -->
 - [How to Switch from Windows to Linux without Losing Data?](https://www.geeksforgeeks.org/how-to-switch-from-windows-to-linux-without-losing-data/)
+- [How to start contributing to open-source projects?](https://medium.com/@workingpayload/how-to-start-contributing-to-open-source-projects-for-beginners-c3ff7cc13d53)
 <!-- BLOG-POST-LIST:END -->
 
 Here are some [🦜 party parrots](https://cultofthepartyparrot.com):
