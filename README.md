@@ -8,13 +8,19 @@
 [![LeetCode](https://img.shields.io/badge/dynamic/json?style=plastic&labelColor=black&color=%23ffa116&label=Solved&query=solvedOverTotal&url=https%3A%2F%2Fleetcode-badge.vercel.app%2Fapi%2Fusers%2Fworkingpayload&logo=leetcode&logoColor=yellow)](https://leetcode.com/workingpayload/)
 [![ProfileViews](https://komarev.com/ghpvc/?username=workingpayload&color=red&style=flat)](https://komarev.com/ghpvc/?username=workingpayload)
 
-:wave: Hello! I am raj. I am a passionate developer who is frequent in Python and loves contributing to open source projects. I am a Linux enthusiast and am dedicated to using open source technologies to build robust and efficient systems.
+:wave:  Welcome to my GitHub profile! I'm Raj, a dedicated and enthusiastic Full Stack Developer with a strong command of both Python and Java. My journey in the world of programming has led me to become fluent in a range of technologies that power both the frontend and backend of applications.
 
-I am constantly learning new technologies and programming languages to improve my skills and contribute to the open-source community.
+💻 On the frontend, I'm well-versed in crafting dynamic user experiences using technologies like React, Angular, and Next.js. I believe that a user-friendly and visually appealing interface is the key to creating successful applications that leave a lasting impression.
 
-If you have any open source projects that need contributions, feel free to reach out to me. I am always happy to help and contribute to projects that align with my interests and skills.
+⚙️ When it comes to the backend, I've mastered the art of utilizing Spring Boot to build robust and scalable server-side solutions. Ensuring the seamless flow of data and efficient functionality is always a top priority in my projects.
 
-Thank you for visiting my GitHub profile. I look forward to collaborating with you on open source projects!
+🐧 My love for Linux is undeniable. I thrive in the open-source environment and am a firm believer in the power of collaborative development. One of my greatest joys is contributing to the open-source community, where I can give back and be a part of technology's global evolution.
+
+🌱 Continuous learning is my mantra, and I'm always exploring new technologies and tools to stay ahead in this ever-evolving field. The thrill of problem-solving and the satisfaction of turning ideas into functional code drive me every day.
+
+🤝 Collaboration is at the heart of my work ethic. I'm open to connecting with fellow developers, sharing experiences, and working together to create innovative solutions that make a positive impact.
+
+🚀 Join me on this exciting coding journey! Feel free to explore my repositories, where you'll find a collection of projects that reflect my passion, skills, and dedication to the world of Full Stack Development.
 
 <div align="left">
     <details>
@@ -28,7 +34,9 @@ Thank you for visiting my GitHub profile. I look forward to collaborating with y
 <!-- START OF PROFILE STACK, DO NOT REMOVE -->
 | 💻 **Technology** | 🚀 **Projects** |
 | - | - |
-| [![Python](https://img.shields.io/static/v1?label=&message=Python&color=3776AB&logo=Python&logoColor=FFFFFF)](https://www.python.org/) | [![Hand-Gesture-Recognition](https://img.shields.io/static/v1?label=&message=Hand-Gesture-Recognition&color=000605&logo=github&logoColor=FFFFFF&labelColor=000605)](https://github.com/workingpayload/Hand-Gesture-Recognition) [![Covid-19-Tracker](https://img.shields.io/static/v1?label=&message=Covid-19-Tracker&color=000605&logo=github&logoColor=FFFFFF&labelColor=000605)](https://github.com/workingpayload/Covid-19-Tracker) [![Stopwatch](https://img.shields.io/static/v1?label=&message=Stopwatch&color=000605&logo=github&logoColor=FFFFFF&labelColor=000605)](https://github.com/workingpayload/Stopwatch) |
+| [![Python](https://img.shields.io/static/v1?label=&message=Python&color=3776AB&logo=Python&logoColor=FFFFFF)](https://www.python.org/) | [![Hand-Gesture-Recognition](https://img.shields.io/static/v1?label=&message=Hand-Gesture-Recognition&color=000605&logo=github&logoColor=FFFFFF&labelColor=000605)](https://github.com/workingpayload/Hand-Gesture-Recognition) [![Covid-19-Tracker](https://img.shields.io/static/v1?label=&message=Covid-19-Tracker&color=000605&logo=github&logoColor=FFFFFF&labelColor=000605)](https://github.com/workingpayload/Covid-19-Tracker) [![Stopwatch](https://img.shields.io/static/v1?label=&message=Stopwatch&color=000605&logo=github&logoColor=FFFFFF&labelColor=000605)](https://github.com/workingpayload/Stopwatch) 
+![React](https://img.shields.io/static/v1?label=&message=React&color=3776AB&logo=React&logoColor=FFFFFF) | [![Butler](https://img.shields.io/static/v1?label=&message=Butler&color=000605&logo=github&logoColor=FFFFFF&labelColor=000605)](https://butler-beta.vercel.app/) [![Youtube](https://img.shields.io/static/v1?label=&message=Youtube&color=000605&logo=github&logoColor=FFFFFF&labelColor=000605)](https://workingpayload-youtube.netlify.app/) [![Code VI](https://img.shields.io/static/v1?label=&message=Code-VI&color=000605&logo=github&logoColor=FFFFFF&labelColor=000605)](https://workingpayload.github.io/CodeVI/)
+
 
 ![Raj's Github Stats](https://github-readme-stats.vercel.app/api?username=workingpayload&show_icons=true)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=workingpayload&layout=compact)](https://github.com/workingpayload)
