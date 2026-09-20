@@ -27,15 +27,18 @@
         <summary><b>GitHub Metrics👇🏻</b></summary>
     <br>
         
-<img src="https://metrics.lecoq.io/ashleymavericks?template=classic&isocalendar=1&followup=1&tweets=1&achievements=1&isocalendar.duration=half-year&followup.sections=repositories&followup.indepth=false&achievements.threshold=C&achievements.secrets=true&achievements.display=detailed&achievements.limit=0&achievements.ignored=follower%2C%20gister%2C%20member%2C%20forker%2C%20inspirer%2C%20influencer%2C%20worker&tweets.attachments=false&tweets.limit=2&tweets.user=ashleymavericks&config.timezone=Asia%2FKolkata">
+<img src="https://metrics.lecoq.io/workingpayload?template=classic&isocalendar=1&followup=1&tweets=1&achievements=1&isocalendar.duration=half-year&followup.sections=repositories&followup.indepth=false&achievements.threshold=C&achievements.secrets=true&achievements.display=detailed&achievements.limit=0&achievements.ignored=follower%2C%20gister%2C%20member%2C%20forker%2C%20inspirer%2C%20influencer%2C%20worker&tweets.attachments=false&tweets.limit=2&tweets.user=workingpayload&config.timezone=Asia%2FKolkata">
     </details>
 </div>
 
 <!-- START OF PROFILE STACK, DO NOT REMOVE -->
 | 💻 **Technology** | 🚀 **Projects** |
 | - | - |
-| [![Python](https://img.shields.io/static/v1?label=&message=Python&color=3776AB&logo=Python&logoColor=FFFFFF)](https://www.python.org/) | [![Hand-Gesture-Recognition](https://img.shields.io/static/v1?label=&message=Hand-Gesture-Recognition&color=000605&logo=github&logoColor=FFFFFF&labelColor=000605)](https://github.com/workingpayload/Hand-Gesture-Recognition)  
-![React](https://img.shields.io/static/v1?label=&message=React&color=3776AB&logo=React&logoColor=FFFFFF) | [![Butler](https://img.shields.io/static/v1?label=&message=Butler&color=000605&logo=github&logoColor=FFFFFF&labelColor=000605)](https://butler-beta.vercel.app/) 
+| [![Python](https://img.shields.io/static/v1?label=&message=Python&color=3776AB&logo=Python&logoColor=FFFFFF)](https://www.python.org/) | [![SuperAgent](https://img.shields.io/static/v1?label=&message=SuperAgent&color=000605&logo=github&logoColor=FFFFFF&labelColor=000605)](https://github.com/workingpayload/SuperAgent) |
+| [![Python](https://img.shields.io/static/v1?label=&message=Python&color=3776AB&logo=Python&logoColor=FFFFFF)](https://www.python.org/) | [![Leetcode-Problems](https://img.shields.io/static/v1?label=&message=Leetcode-Problems&color=000605&logo=github&logoColor=FFFFFF&labelColor=000605)](https://github.com/workingpayload/Leetcode-Problems) |
+| [![Kotlin](https://img.shields.io/static/v1?label=&message=Kotlin&color=7F52FF&logo=Kotlin&logoColor=FFFFFF)](https://kotlinlang.org/) | [![MusicSM](https://img.shields.io/static/v1?label=&message=MusicSM&color=000605&logo=github&logoColor=FFFFFF&labelColor=000605)](https://music-sm.vercel.app/) |
+| [![JavaScript](https://img.shields.io/static/v1?label=&message=JavaScript&color=F7DF1E&logo=JavaScript&logoColor=000000)](https://www.javascript.com/) | [![mview](https://img.shields.io/static/v1?label=&message=mview&color=000605&logo=github&logoColor=FFFFFF&labelColor=000605)](https://mview-eight.vercel.app/) |
+| [![TypeScript](https://img.shields.io/static/v1?label=&message=TypeScript&color=3178C6&logo=TypeScript&logoColor=FFFFFF)](https://www.typescriptlang.org/) | [![Butler](https://img.shields.io/static/v1?label=&message=Butler&color=000605&logo=github&logoColor=FFFFFF&labelColor=000605)](https://butler-delta.vercel.app/) |
 
 
 ![Raj's Github Stats](https://github-readme-stats.vercel.app/api?username=workingpayload&show_icons=true)
