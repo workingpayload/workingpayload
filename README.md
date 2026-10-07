@@ -39,6 +39,8 @@
 | [![Kotlin](https://img.shields.io/static/v1?label=&message=Kotlin&color=7F52FF&logo=Kotlin&logoColor=FFFFFF)](https://kotlinlang.org/) | [![MusicSM](https://img.shields.io/static/v1?label=&message=MusicSM&color=000605&logo=github&logoColor=FFFFFF&labelColor=000605)](https://music-sm.vercel.app/) |
 | [![JavaScript](https://img.shields.io/static/v1?label=&message=JavaScript&color=F7DF1E&logo=JavaScript&logoColor=000000)](https://www.javascript.com/) | [![mview](https://img.shields.io/static/v1?label=&message=mview&color=000605&logo=github&logoColor=FFFFFF&labelColor=000605)](https://mview-eight.vercel.app/) |
 | [![TypeScript](https://img.shields.io/static/v1?label=&message=TypeScript&color=3178C6&logo=TypeScript&logoColor=FFFFFF)](https://www.typescriptlang.org/) | [![Butler](https://img.shields.io/static/v1?label=&message=Butler&color=000605&logo=github&logoColor=FFFFFF&labelColor=000605)](https://butler-delta.vercel.app/) |
+| [![Kotlin](https://img.shields.io/static/v1?label=&message=Kotlin&color=7F52FF&logo=Kotlin&logoColor=FFFFFF)](https://kotlinlang.org/) | [![MusicSM-Desktop](https://img.shields.io/static/v1?label=&message=MusicSM-Desktop&color=000605&logo=github&logoColor=FFFFFF&labelColor=000605)](https://github.com/workingpayload/MusicSM-Desktop) |
+| [![JavaScript](https://img.shields.io/static/v1?label=&message=JavaScript&color=F7DF1E&logo=JavaScript&logoColor=000000)](https://www.javascript.com/) | [![Copixel](https://img.shields.io/static/v1?label=&message=Copixel&color=000605&logo=github&logoColor=FFFFFF&labelColor=000605)](https://github.com/workingpayload/Copixel) |
 
 
 ![Raj's Github Stats](https://github-readme-stats.vercel.app/api?username=workingpayload&show_icons=true)
