@@ -11,7 +11,6 @@
   <a href="mailto:rs91963@gmail.com"><img src="https://img.shields.io/badge/Email-0d1117?style=flat-square&logo=gmail&logoColor=4FD1A0" alt="Email" /></a>
   <a href="https://t.me/iamsarcasticaf"><img src="https://img.shields.io/badge/Telegram-0d1117?style=flat-square&logo=telegram&logoColor=4FD1A0" alt="Telegram" /></a>
   <a href="https://github.com/workingpayload?tab=followers"><img src="https://img.shields.io/github/followers/workingpayload?style=flat-square&label=followers&labelColor=0d1117&color=12916C&logo=github" alt="Followers" /></a>
-  <img src="https://komarev.com/ghpvc/?username=workingpayload&color=12916C&style=flat-square&label=profile+views" alt="Profile views" />
 </p>
 
 </div>
