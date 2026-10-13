@@ -1,87 +1,123 @@
-# 👨🏻‍💻 [Raj Pratap Singh](https://workingpayload.github.io/) [@workingpayload](https://workingpayload.github.io/)
+<div align="center">
 
-[![GitHub followers](https://img.shields.io/github/followers/workingpayload?label=Follow&style=social)](https://github.com/workingpayload/?tab=follow)
-[![Gmail Badge](https://img.shields.io/badge/-workingpayload-c14438?style=social&logo=Gmail&logoColor=red&link=mailto:rs91963@gmail.com)](mailto:rs91963@gmail.com)
-[![Telegram Badge](https://img.shields.io/badge/-Telegram-c14438?style=social&logo=Telegram&logoColor=red&link=https://t.me/iamsarcasticaf)](https://t.me/iamsarcasticaf)
-[![LinkedIn Badge](https://img.shields.io/badge/-LinkedIn-blue?style=social&logo=Linkedin&logoColor=blue&link=https://www.linkedin.com/in/workingpayload/)](https://www.linkedin.com/in/workingpayload/)
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:12916C,100:4FD1A0&height=180&section=header&text=Raj%20Pratap%20Singh&fontColor=E6FFF5&fontSize=42&fontAlignY=35&desc=%40workingpayload&descAlignY=58&descSize=16" width="100%" alt="Raj Pratap Singh" />
 
-[![LeetCode](https://img.shields.io/badge/dynamic/json?style=plastic&labelColor=black&color=%23ffa116&label=Solved&query=solvedOverTotal&url=https%3A%2F%2Fleetcode-badge.vercel.app%2Fapi%2Fusers%2Fworkingpayload&logo=leetcode&logoColor=yellow)](https://leetcode.com/workingpayload/)
-[![ProfileViews](https://komarev.com/ghpvc/?username=workingpayload&color=red&style=flat)](https://komarev.com/ghpvc/?username=workingpayload)
+<a href="https://github.com/workingpayload">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=900&color=4FD1A0&center=true&vCenter=true&width=620&lines=%24+whoami;full-stack+dev+%40+Adobe;Kotlin+%C2%B7+TypeScript+%C2%B7+Python+%C2%B7+C%23;building+AI-agent+tools+%26+tiny+Windows+utils;prolly+on+the+keyboard+%E2%8C%A8%EF%B8%8F" alt="Typing intro" />
+</a>
 
-:wave:  Welcome to my GitHub profile! I'm Raj, a dedicated and enthusiastic Full Stack Developer with a strong command of both Python and Java. My journey in the world of programming has led me to become fluent in a range of technologies that power both the frontend and backend of applications.
+<p>
+  <a href="https://www.linkedin.com/in/workingpayload/"><img src="https://img.shields.io/badge/LinkedIn-0d1117?style=flat-square&logo=linkedin&logoColor=4FD1A0" alt="LinkedIn" /></a>
+  <a href="mailto:rs91963@gmail.com"><img src="https://img.shields.io/badge/Email-0d1117?style=flat-square&logo=gmail&logoColor=4FD1A0" alt="Email" /></a>
+  <a href="https://t.me/iamsarcasticaf"><img src="https://img.shields.io/badge/Telegram-0d1117?style=flat-square&logo=telegram&logoColor=4FD1A0" alt="Telegram" /></a>
+  <a href="https://github.com/workingpayload?tab=followers"><img src="https://img.shields.io/github/followers/workingpayload?style=flat-square&label=followers&labelColor=0d1117&color=12916C&logo=github" alt="Followers" /></a>
+  <img src="https://komarev.com/ghpvc/?username=workingpayload&color=12916C&style=flat-square&label=profile+views" alt="Profile views" />
+</p>
 
-💻 On the frontend, I'm well-versed in crafting dynamic user experiences using technologies like React, Angular, and Next.js. I believe that a user-friendly and visually appealing interface is the key to creating successful applications that leave a lasting impression.
-
-⚙️ When it comes to the backend, I've mastered the art of utilizing Spring Boot to build robust and scalable server-side solutions. Ensuring the seamless flow of data and efficient functionality is always a top priority in my projects.
-
-🐧 My love for Linux is undeniable. I thrive in the open-source environment and am a firm believer in the power of collaborative development. One of my greatest joys is contributing to the open-source community, where I can give back and be a part of technology's global evolution.
-
-🌱 Continuous learning is my mantra, and I'm always exploring new technologies and tools to stay ahead in this ever-evolving field. The thrill of problem-solving and the satisfaction of turning ideas into functional code drive me every day.
-
-🤝 Collaboration is at the heart of my work ethic. I'm open to connecting with fellow developers, sharing experiences, and working together to create innovative solutions that make a positive impact.
-
-🚀 Join me on this exciting coding journey! Feel free to explore my repositories, where you'll find a collection of projects that reflect my passion, skills, and dedication to the world of Full Stack Development.
-
-<div align="left">
-    <details>
-        <summary><b>GitHub Metrics👇🏻</b></summary>
-    <br>
-        
-<img src="https://metrics.lecoq.io/workingpayload?template=classic&isocalendar=1&followup=1&tweets=1&achievements=1&isocalendar.duration=half-year&followup.sections=repositories&followup.indepth=false&achievements.threshold=C&achievements.secrets=true&achievements.display=detailed&achievements.limit=0&achievements.ignored=follower%2C%20gister%2C%20member%2C%20forker%2C%20inspirer%2C%20influencer%2C%20worker&tweets.attachments=false&tweets.limit=2&tweets.user=workingpayload&config.timezone=Asia%2FKolkata">
-    </details>
 </div>
 
-<!-- START OF PROFILE STACK, DO NOT REMOVE -->
-| 💻 **Technology** | 🚀 **Projects** |
-| - | - |
-| [![Python](https://img.shields.io/static/v1?label=&message=Python&color=3776AB&logo=Python&logoColor=FFFFFF)](https://www.python.org/) | [![SuperAgent](https://img.shields.io/static/v1?label=&message=SuperAgent&color=000605&logo=github&logoColor=FFFFFF&labelColor=000605)](https://github.com/workingpayload/SuperAgent) |
-| [![Kotlin](https://img.shields.io/static/v1?label=&message=Kotlin&color=7F52FF&logo=Kotlin&logoColor=FFFFFF)](https://kotlinlang.org/) | [![MusicSM](https://img.shields.io/static/v1?label=&message=MusicSM&color=000605&logo=github&logoColor=FFFFFF&labelColor=000605)](https://music-sm.vercel.app/) |
-| [![Kotlin](https://img.shields.io/static/v1?label=&message=Kotlin&color=7F52FF&logo=Kotlin&logoColor=FFFFFF)](https://kotlinlang.org/) | [![MusicSM-Desktop](https://img.shields.io/static/v1?label=&message=MusicSM-Desktop&color=000605&logo=github&logoColor=FFFFFF&labelColor=000605)](https://github.com/workingpayload/MusicSM-Desktop) |
-| [![Kotlin](https://img.shields.io/static/v1?label=&message=Kotlin&color=7F52FF&logo=Kotlin&logoColor=FFFFFF)](https://kotlinlang.org/) | [![PosterHub](https://img.shields.io/static/v1?label=&message=PosterHub&color=000605&logo=github&logoColor=FFFFFF&labelColor=000605)](https://github.com/workingpayload/PosterHub) |
-| [![JavaScript](https://img.shields.io/static/v1?label=&message=JavaScript&color=F7DF1E&logo=JavaScript&logoColor=000000)](https://www.javascript.com/) | [![Super-Orchestrator](https://img.shields.io/static/v1?label=&message=Super-Orchestrator&color=000605&logo=github&logoColor=FFFFFF&labelColor=000605)](https://github.com/workingpayload/Super-Orchestrator) |
-| [![JavaScript](https://img.shields.io/static/v1?label=&message=JavaScript&color=F7DF1E&logo=JavaScript&logoColor=000000)](https://www.javascript.com/) | [![Copixel](https://img.shields.io/static/v1?label=&message=Copixel&color=000605&logo=github&logoColor=FFFFFF&labelColor=000605)](https://github.com/workingpayload/Copixel) |
-| [![TypeScript](https://img.shields.io/static/v1?label=&message=TypeScript&color=3178C6&logo=TypeScript&logoColor=FFFFFF)](https://www.typescriptlang.org/) | [![Portfolio](https://img.shields.io/static/v1?label=&message=Portfolio&color=000605&logo=github&logoColor=FFFFFF&labelColor=000605)](https://github.com/workingpayload/Portfolio) |
-| [![TypeScript](https://img.shields.io/static/v1?label=&message=TypeScript&color=3178C6&logo=TypeScript&logoColor=FFFFFF)](https://www.typescriptlang.org/) | [![Butler](https://img.shields.io/static/v1?label=&message=Butler&color=000605&logo=github&logoColor=FFFFFF&labelColor=000605)](https://butler-delta.vercel.app/) |
+### `~/about`
 
+```kotlin
+data class Raj(
+    val role: String         = "Full-stack developer",
+    val company: String      = "Adobe",
+    val location: String     = "Noida, India",
+    val languages: List<String> = listOf("Kotlin", "Java", "TypeScript", "Python", "C#"),
+    val building: List<String>  = listOf("AI-agent tooling", "Android apps", "tiny Windows utilities"),
+    val loves: List<String>     = listOf("Linux 🐧", "open source", "clean UIs"),
+    val status: String       = "prolly on the keyboard ⌨️",
+)
+```
 
-![Raj's Github Stats](https://github-readme-stats.vercel.app/api?username=workingpayload&show_icons=true)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=workingpayload&layout=compact)](https://github.com/workingpayload)
-![Raj GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=workingpayload)
+### `~/stack`
 
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=kotlin,java,py,ts,js,cs,react,nextjs,angular,spring,dotnet,electron,androidstudio,linux,windows,git&perline=8&theme=dark" alt="Kotlin, Java, Python, TypeScript, JavaScript, C#, React, Next.js, Angular, Spring, .NET, Electron, Android Studio, Linux, Windows, Git" />
+</p>
 
-<!-- END OF PROFILE STACK, DO NOT REMOVE -->
+### `~/projects`
 
-📝 &nbsp;**Latest Blog Posts**
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <h4>🌿 <a href="https://github.com/workingpayload/Mint">Mint for Explorer</a></h4>
+      Right-click in Windows Explorer → create <i>any</i> file type, named your way. WinUI 3 app with a native C++ shell extension.<br/><br/>
+      <img src="https://img.shields.io/badge/C%23-0d1117?style=flat-square&logo=dotnet&logoColor=4FD1A0" alt="C#" />
+      <img src="https://img.shields.io/badge/WinUI_3-0d1117?style=flat-square&logo=windows&logoColor=4FD1A0" alt="WinUI 3" />
+      <img src="https://img.shields.io/badge/C++-0d1117?style=flat-square&logo=cplusplus&logoColor=4FD1A0" alt="C++" />
+    </td>
+    <td width="50%" valign="top">
+      <h4>🎧 <a href="https://github.com/workingpayload/Hymn">Hymn</a> · <a href="https://github.com/workingpayload/Hymn-Desktop">Desktop</a></h4>
+      Dark, glassmorphic music-streaming app for Android, with a Compose Multiplatform desktop port sharing the same core.<br/><br/>
+      <img src="https://img.shields.io/badge/Kotlin-0d1117?style=flat-square&logo=kotlin&logoColor=4FD1A0" alt="Kotlin" />
+      <img src="https://img.shields.io/badge/Jetpack_Compose-0d1117?style=flat-square&logo=jetpackcompose&logoColor=4FD1A0" alt="Jetpack Compose" />
+      <img src="https://img.shields.io/badge/Media3-0d1117?style=flat-square&logo=android&logoColor=4FD1A0" alt="Media3" />
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h4>🦸 <a href="https://github.com/workingpayload/SuperAgent">SuperAgent</a></h4>
+      Install and run portable AI developer skills across GitHub Copilot, Claude, Codex, Gemini, and other Agent Skills tools.<br/><br/>
+      <img src="https://img.shields.io/badge/Python-0d1117?style=flat-square&logo=python&logoColor=4FD1A0" alt="Python" />
+      <img src="https://img.shields.io/badge/CLI-0d1117?style=flat-square&logo=gnubash&logoColor=4FD1A0" alt="CLI" />
+    </td>
+    <td width="50%" valign="top">
+      <h4>🎼 <a href="https://github.com/workingpayload/Super-Orchestrator">Super-Orchestrator</a></h4>
+      Desktop orchestrator for AI coding agents: a Master → Worker → Reviewer pipeline with live task tracking.<br/><br/>
+      <img src="https://img.shields.io/badge/Electron-0d1117?style=flat-square&logo=electron&logoColor=4FD1A0" alt="Electron" />
+      <img src="https://img.shields.io/badge/React-0d1117?style=flat-square&logo=react&logoColor=4FD1A0" alt="React" />
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h4>🧩 <a href="https://github.com/workingpayload/Copixel">Copixel</a></h4>
+      Copilot CLI extension that renders large tool output as dense PNG pages, so the model reads a few images instead of thousands of tokens.<br/><br/>
+      <img src="https://img.shields.io/badge/JavaScript-0d1117?style=flat-square&logo=javascript&logoColor=4FD1A0" alt="JavaScript" />
+      <img src="https://img.shields.io/badge/Copilot_CLI-0d1117?style=flat-square&logo=githubcopilot&logoColor=4FD1A0" alt="Copilot CLI" />
+    </td>
+    <td width="50%" valign="top">
+      <h4>🖼️ <a href="https://github.com/workingpayload/PosterHub">PosterHub</a></h4>
+      Browse 4K movie and TV posters from TMDB and fanart.tv, ranked by resolution. Save them or set them as wallpaper.<br/><br/>
+      <img src="https://img.shields.io/badge/Kotlin-0d1117?style=flat-square&logo=kotlin&logoColor=4FD1A0" alt="Kotlin" />
+      <img src="https://img.shields.io/badge/Jetpack_Compose-0d1117?style=flat-square&logo=jetpackcompose&logoColor=4FD1A0" alt="Jetpack Compose" />
+    </td>
+  </tr>
+</table>
+
+### `~/stats`
+
+<p align="center">
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=workingpayload&show_icons=true&hide_border=true&bg_color=0d1117&title_color=4FD1A0&icon_color=4FD1A0&text_color=c9d1d9&ring_color=4FD1A0" alt="GitHub stats" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=workingpayload&layout=compact&hide_border=true&bg_color=0d1117&title_color=4FD1A0&text_color=c9d1d9" alt="Top languages" />
+</p>
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=workingpayload&hide_border=true&background=0d1117&ring=4FD1A0&fire=4FD1A0&currStreakLabel=4FD1A0&sideLabels=c9d1d9&dates=8b949e&currStreakNum=E6FFF5&sideNums=E6FFF5" alt="GitHub streak" />
+</p>
+
+### `~/blog`
+
 <!-- BLOG-POST-LIST:START -->
 - [How to Switch from Windows to Linux without Losing Data?](https://www.geeksforgeeks.org/how-to-switch-from-windows-to-linux-without-losing-data/)
 - [How to start contributing to open-source projects?](https://medium.com/@workingpayload/how-to-start-contributing-to-open-source-projects-for-beginners-c3ff7cc13d53)
 <!-- BLOG-POST-LIST:END -->
 
-Here are some [🦜 party parrots](https://cultofthepartyparrot.com):
+<details>
+  <summary><code>$ sudo party --parrots</code> 🦜</summary>
+  <br/>
+  <img src="https://cultofthepartyparrot.com/parrots/hd/githubparrot.gif" width="30" height="30"/>
+  <img src="https://cultofthepartyparrot.com/flags/hd/indiaparrot.gif" width="30" height="30"/>
+  <img src="https://cultofthepartyparrot.com/parrots/asyncparrot.gif" width="36" height="30"/>
+  <img src="https://cultofthepartyparrot.com/parrots/hd/exceptionallyfastparrot.gif" width="30" height="30"/>
+  <img src="https://cultofthepartyparrot.com/parrots/hd/60fpsparrot.gif" width="30" height="30"/>
+  <img src="https://cultofthepartyparrot.com/parrots/hd/opensourceparrot.gif" width="30" height="30"/>
+  <img src="https://cultofthepartyparrot.com/parrots/hd/dealwithitnowparrot.gif" width="30" height="30"/>
+  <img src="https://cultofthepartyparrot.com/parrots/databaseparrot.gif" width="30" height="30"/>
+  <img src="https://cultofthepartyparrot.com/parrots/fixparrot.gif" width="36" height="30"/>
+  <img src="https://cultofthepartyparrot.com/parrots/hd/laptop_parrot.gif" width="30" height="30"/>
+  <img src="https://cultofthepartyparrot.com/parrots/hd/scienceparrot.gif" width="30" height="30"/>
+  <img src="https://cultofthepartyparrot.com/parrots/hd/moonwalkingparrot.gif" width="30" height="30"/>
+  <img src="https://cultofthepartyparrot.com/parrots/hd/hypnoparrotdark.gif" width="30" height="30"/>
+</details>
 
-<div>
-    <img src="https://cultofthepartyparrot.com/parrots/hd/githubparrot.gif" width="30" height="30"/>
-    <img src="https://cultofthepartyparrot.com/flags/hd/indiaparrot.gif" width="30" height="30"/>
-    <img src="https://cultofthepartyparrot.com/parrots/asyncparrot.gif" width="36" height="30"/>
-    <img src="https://cultofthepartyparrot.com/parrots/hd/exceptionallyfastparrot.gif" width="30" height="30"/>
-    <img src="https://cultofthepartyparrot.com/parrots/hd/60fpsparrot.gif" width="30" height="30"/>
-    <img src="https://cultofthepartyparrot.com/parrots/hd/jumpingparrot.gif" width="30" height="30"/>
-    <img src="https://cultofthepartyparrot.com/parrots/hd/opensourceparrot.gif" width="30" height="30"/>
-    <img src="https://cultofthepartyparrot.com/parrots/hd/dealwithitnowparrot.gif" width="30" height="30"/>
-    <img src="https://cultofthepartyparrot.com/parrots/hd/hypnoparrotlight.gif" width="30" height="30"/>
-    <img src="https://cultofthepartyparrot.com/parrots/databaseparrot.gif" width="30" height="30"/>
-    <img src="https://cultofthepartyparrot.com/parrots/fixparrot.gif" width="36" height="30"/>
-    <img src="https://cultofthepartyparrot.com/parrots/hd/laptop_parrot.gif" width="30" height="30"/>
-    <img src="https://cultofthepartyparrot.com/parrots/hd/spinningparrot.gif" width="30" height="30"/>
-    <img src="https://cultofthepartyparrot.com/parrots/hd/levitationparrot.gif" width="30" height="30"/>
-    <img src="https://cultofthepartyparrot.com/parrots/hd/meldparrot.gif" width="30" height="30"/>
-    <img src="https://cultofthepartyparrot.com/parrots/slomoparrot.gif" width="30" height="30"/>
-    <img src="https://cultofthepartyparrot.com/parrots/hd/moonwalkingparrot.gif" width="30" height="30"/>
-    <img src="https://cultofthepartyparrot.com/parrots/hd/stableparrot.gif" width="30" height="30"/>
-    <img src="https://cultofthepartyparrot.com/parrots/hd/scienceparrot.gif" width="30" height="30"/>
-    <img src="https://cultofthepartyparrot.com/parrots/hd/pirateparrot.gif" width="30" height="30"/>
-    <img src="https://cultofthepartyparrot.com/parrots/hd/footballparrot.gif" width="30" height="30"/>
-    <img src="https://cultofthepartyparrot.com/parrots/hd/illuminatiparrot.gif" width="30" height="30"/>
-    <img src="https://cultofthepartyparrot.com/parrots/hd/hypnoparrotdark.gif" width="30" height="30"/>
-    <img src="https://cultofthepartyparrot.com/parrots/hd/mustacheparrot.gif" width="30" height="30"/>
-</div>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:4FD1A0,50:12916C,100:0d1117&height=110&section=footer" width="100%" alt="" />
